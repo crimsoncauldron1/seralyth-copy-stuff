@@ -105,10 +105,10 @@
     "kingofnetflix",
     "multifactor",
     "Twig",
-    "goldentrophy | IIDK"
+    "iidk"
   ],
   "april_fools": {
-    "sex": false
+    "sex": true
   },
   "patreon": [],
   "detected-mods": [],
