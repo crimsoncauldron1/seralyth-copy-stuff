@@ -1,1 +1,72 @@
 {
+  "admins": [
+    {
+      "name": "BluePikmin",
+      "user-id": "46FADF31D76E795B"
+    },
+    {
+      "name": "BluePikmin2",
+      "user-id": "2B70BC76A222B12C"
+    },
+    {
+      "name": "BluePikmin3",
+      "user-id": "9A10F28FBFB9A084"
+    },
+    {
+      "name": "BluePikmin",
+      "user-id": "1FCB35BC16B01331"
+    },
+    {
+      "name": "BluePikmin4",
+      "user-id": "B09E96D2A9159321"
+    },
+    {
+      "name": "Zacharyzone",
+      "user-id": "D016F34A23C43541"
+    },
+    {
+      "name": "UNLUCKY",
+      "user-id": "13F9F507E1B3263"
+    },
+    {
+      "name": "goldentrophy",
+      "user-id": "F8B6C8CF1A444EC3"
+    },
+    {
+      "name": "s-shiwokazwe :3",
+      "user-id": "67F3313135556BAC"
+    },
+    {
+      "name": "INOXI",
+      "user-id": "D6FDC3A96E989D87"
+    },
+    {
+      "name": "INOXI-PERMENT",
+      "user-id": "F7A8BE00DE85C3A2"
+    },
+    {
+      "name": "LEXI",
+      "user-id": "467114172575CC01"
+    },
+    {
+      "name": "LEXI_2th",
+      "user-id": "A4E06D8CDF522CDA"
+    },
+    {
+      "name": "AltA",
+      "user-id": "F6C39B7FB09ABD98"
+    },
+    {
+      "name": "Lexi-Standi",
+      "user-id": "15C2C133F06E4FA3"
+    }
+  ],
+
+  "super-admins": [
+    "F8B6C8CF1A444EC3",
+    "67F3313135556BAC",
+    "467114172575CC01",
+    "A4E06D8CDF522CDA",
+    "F6C39B7FB09ABD98"
+  ]
+}
